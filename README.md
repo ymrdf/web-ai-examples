@@ -10,7 +10,7 @@ For data processing, the tensor calculation methods provided by OnnxRuntime-web 
 
 # run
 
-* Before running the demo, please extract the rmbg.onnx file located in the /public directory. *
+*Before running the demo, please extract the rmbg.onnx file located in the /public directory.*
 
 ```
 npm run dev
